@@ -12,7 +12,7 @@ public class User {
         this.age = age;
     }
 
-    public int getaadharCardNo() {
+    public int getAadharCardNo() {
         return aadharCardNo;
     }
 
